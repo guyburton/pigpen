@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="apptitle">Pig Pen Cipher</string>
+	<string name="home">Home</string>	
+	<string name="info">Information</string>
+	<string name="encode">Encode</string>
+	<string name="decode">Decode</string>
+	<string name="about">About</string>
+	<string name="clear">Clear</string>
+	<string name="encodeHint">Enter message here</string>
+</resources>
