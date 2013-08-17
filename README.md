@@ -1,4 +1,4 @@
-Pigpen
-======
+Pigpen Cipher
+=============
 
-Pigpen Titanium project
+This is the Titanium project for the 'Pigpen Cipher' iPhone application.
