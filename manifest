@@ -1,9 +1,0 @@
-#appname:PigPenApp
-#appid:com.github.guyburton.pigpen
-#type:mobile
-#guid:2cccc294-b1ed-4221-ac85-4a87eb3a6c1f
-#version:1.0
-#publisher:guyburton
-#url:http://guyburton.github.io
-#image:appicon.png
-#desc:Simple pigpen ciper utility
